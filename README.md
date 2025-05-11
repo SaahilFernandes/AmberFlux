@@ -1,7 +1,5 @@
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo Video
+[![Watch our demo video](https://img.youtube.com/vi/1_LsR3KNdkY/mqdefault.jpg)](https://youtu.be/1_LsR3KNdkY)
 
 ## Prerequisites
 
