@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from fastapi import FastAPI, UploadFile, File
 from video_utils import extract_frames
 from feature_utils import compute_feature_vector
@@ -38,3 +39,6 @@ async def search_similar(vector: list[float]):
 @app.get("/")
 def root():
     return {"message": "FastAPI is running"}
+=======
+#first push
+>>>>>>> cde6de5053c6aa560798082d50020634157b7993
